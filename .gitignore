@@ -1,0 +1,6 @@
+
+# Any development files
+dev//
+
+# MacOS
+.DS_Store
