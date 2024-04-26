@@ -14,6 +14,10 @@ Software Engineering major.
 
 # Curriculum
 
+## Accelerated Master Program
+
+* <https://graduate.unl.edu/academics/programs/accelerated-masters>
+
 ## Pass/No Pass Rules
 
 * UNL Rules: https://registrar.unl.edu/academic-standards/policies/pass-no-pass/
