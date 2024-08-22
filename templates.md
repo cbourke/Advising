@@ -11,6 +11,25 @@ However, the best way to communicate is electronically either through the
 Student Success Hub or via email (chris.bourke@unl.edu).  I look forward
 to working with you going forward!
 
+## Annual Message
+
+Greetings.  We have about a week until classes start but I wanted to send a message to all of my advisees and welcome you back to a new year!  I hope you had a good summer.  At some point this semester you may need to meet with me for advising.  My advising hours for Fall 2024 will be Wednesdays and Fridays 10:30 - 11:30 which will be held in my office, Schorr 105.  You must set an appointment through the Student Success Hub: https://unlincoln.my.site.com/SSH
+
+Before you meet with me, be sure to:
+1. Run a Degree Audit to see what requirements and courses you need to
+   complete; instructions are available here:
+   https://registrar.unl.edu/student/my-degree-audit/
+2. Plan the rest of your degree using the Degree Planner application;
+   instructions are available here: https://registrar.unl.edu/degree-planner/
+
+In any and all communications, please include your full NUID.  
+
+Good luck with your classes!
+
+Dr. Chris Bourke
+Professor of Practice
+School of Computing
+
 ## Advising Holds
 
 When Engineering students reach a certain number of hours (typically at the end

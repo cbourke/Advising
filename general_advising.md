@@ -16,8 +16,12 @@ Software Engineering major.
 
 ## Accelerated Master Program
 
-* <https://graduate.unl.edu/academics/programs/accelerated-masters>
-
+* Information: <https://graduate.unl.edu/academics/programs/accelerated-masters>
+* The Office of Graduate Studies handles graduate course registration for undergraduate students.
+  Students should be referred to the **Enrollment Heading** at
+  <https://graduate.unl.edu/academics/programs/accelerated-masters>; requests are
+  handled by Grad Studies.
+  
 ## Pass/No Pass Rules
 
 * UNL Rules: https://registrar.unl.edu/academic-standards/policies/pass-no-pass/
