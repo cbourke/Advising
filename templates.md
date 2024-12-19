@@ -30,6 +30,20 @@ Dr. Chris Bourke
 Professor of Practice
 School of Computing
 
+## Internship Message
+
+Greetings.  As most of you may know, all Software Engineering majors are required to complete an internship for credit as part of their degree requirements.  The internship should be computing-oriented and may be paid or unpaid and may be with a company, non-profit, or other entity.  To receive credit, you must enroll in CSCE 495 for *exactly* 1 credit hour.  Full instructions on this process are available here: https://github.com/cbourke/Advising/blob/main/documents/CSCE495-enrollmentProcess.pdf (download the PDF to view if it does not render in github).  Additional information is provided here: https://github.com/cbourke/Advising/blob/main/documents/CSCE495.md.  All questions about the online internship system need to be directed to Dr. Bhuvana Gopal (bhuvana.gopal@unl.edu).
+
+In addition, you may take a second internship credit (which may be at the same company but over a different period) for 3 credit hours which would substitute for a technical elective (a non-required CSCE or SOFT 400-level course).  You would follow the same process as above.
+
+Be aware that you may apply the credit hours in any semester.  If you have a summer internship I recommend applying the hours in the subsequent fall semester to avoid additional summer enrollment fees.
+
+Dr. Chris Bourke
+Professor of Practice
+School of Computing
+
+
+
 ## Advising Holds
 
 When Engineering students reach a certain number of hours (typically at the end

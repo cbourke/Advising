@@ -21,7 +21,7 @@ Software Engineering major.
   Students should be referred to the **Enrollment Heading** at
   <https://graduate.unl.edu/academics/programs/accelerated-masters>; requests are
   handled by Grad Studies.
-  
+
 ## Pass/No Pass Rules
 
 * UNL Rules: https://registrar.unl.edu/academic-standards/policies/pass-no-pass/
@@ -132,3 +132,14 @@ Substitutions can generally be made for any requirement.  Simple examples includ
 Advisors (faculty and staff) do not have the ability to apply a direct substitution.
 Instead, a request must be made to the staff advisor or directly to
 Graduation Services at <gradservices.registrar@unl.edu>
+
+### CSCE/MATH Reciprocity
+
+There is an agreement between the Department of Mathematics and the School of
+Computing to allow certain CSCE courses to count toward a Math major and MATH
+courses to count toward a computing degree.  Specifically:
+
+  * The following MATH courses may count as a technical elective toward your
+  computing degree: MATH 428, MATH 432, MATH 433, MATH 439, MATH 450, MATH 452
+  * The following CSCE courses may count toward a Math degree: CSCE 421,
+  CSCE 423, CSCE 424, CSCE 428, CSCE 463
