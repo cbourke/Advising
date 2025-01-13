@@ -1,8 +1,23 @@
 
+# Internship Requirements for Software Engineering Majors
 
-For all information regarding internships, consult with Bhuvana Gopal <bhuvana.gopal@unl.edu>
+* All Software Engineering majors are required to have an internship as part of their degree program.
+* Once you get an internship, you can enroll in **1 credit hour** of CSCE 495 to fulfill this requirement.
+* You can apply this credit to any semester during or after your internship.  We recommend *not* applying it
+  to a summer semester (unless you also plan to enroll in other classes) as you will incur full fees.  You
+  can apply the credit to the following fall semester if you wish.
+* For enrollment instructions, see [CSCE495-enrollmentProcess.pdf](./CSCE495-enrollmentProcess.pdf)
+* To get an internship:
+  * Make sure to attend all semesterly career fairs, bring your resume and network
+  * Be sure to attend any special visits by employers to the department
+  * Be sure to follow Bits & Bytes for other opportunities
+  * Use UNL's [Handshake](https://unl.joinhandshake.com) website which lists other internship opportunities
+* Note: if you get a second internship or your internship lasts longer than a semester, you can get enroll
+  in an **additional** 3 credit hours of CSCE 495 which can substitute for a 400-level technical elective!
 
 ## Additional Notes
+
+For any information regarding internships, consult with Bhuvana Gopal <bhuvana.gopal@unl.edu>
 
 1. If the company that the student wants to intern with is not listed in the dropdown on the portal website mentioned in the attached pdf, please have the student reach out to (<bhuvana.gopal@unl.edu>) with the company name and full mailing address including zip code, and I will add it to the list. Once I do so they can proceed with the steps outlined in the pdf.
 
