@@ -22,11 +22,9 @@ Software Engineering major.
     * For SOFT 467, 425 may be good (compiler construction)
     * 468: ANY
 
-## Internship
+## Internship Requirements
 
-  * CSCE 495: 1 hour of internship is required
-  * 3 *additional* hours of internship can be used for tech electives
-  * Currently there can be no overlap of these requirements
+  * See [Internships](./internships) 
 
 # Misc
 
